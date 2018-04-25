@@ -2,6 +2,8 @@
 Protect your data with rsa encryption.
 
 ### Things you should know
+Tested under CentOS7 and OS X.  
+
 This project is developed with Python3.6.
 
 ### Install requirements
